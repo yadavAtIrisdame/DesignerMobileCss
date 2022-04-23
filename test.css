@@ -1,0 +1,21 @@
+.gjs-frame-wrapper {
+    position: absolute;
+    width: 100% !important;
+    height: 100%;
+    left: 0;
+    right: 0;
+    margin: auto;
+    background-image: url(https://www.kindpng.com/picc/m/691-6917020_mobile-frame-image-hd-png-download.png) !important;
+    background-repeat: no-repeat !important;
+    background-origin: content-box !important;
+    background-position: center !important;
+   
+}
+
+.gjs-cv-canvas {
+    background-color: #fff; 
+}
+.gjs-frame {
+    height: 75%;
+    width: 320px;
+}
